@@ -9,8 +9,8 @@
 
 <channel>
 	<title>tecnologi de leon acs</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://sage-rugelach-a8a7f4.netlify.app/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sage-rugelach-a8a7f4.netlify.app</link>
 	<description></description>
 	<lastBuildDate>Thu, 01 Feb 2024 05:33:27 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/2024/02/01/hello-world/</link>
-					<comments>/2024/02/01/hello-world/#comments</comments>
+		<link>https://sage-rugelach-a8a7f4.netlify.app/2024/02/01/hello-world/</link>
+					<comments>https://sage-rugelach-a8a7f4.netlify.app/2024/02/01/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[elpibedev]]></dc:creator>
 		<pubDate>Thu, 01 Feb 2024 05:33:27 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://sage-rugelach-a8a7f4.netlify.app/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2024/02/01/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://sage-rugelach-a8a7f4.netlify.app/2024/02/01/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Muddy Buddies</title>
-		<link>/2018/03/05/muddy-buddies/</link>
-					<comments>/2018/03/05/muddy-buddies/#respond</comments>
+		<link>https://sage-rugelach-a8a7f4.netlify.app/2018/03/05/muddy-buddies/</link>
+					<comments>https://sage-rugelach-a8a7f4.netlify.app/2018/03/05/muddy-buddies/#respond</comments>
 		
 		<dc:creator><![CDATA[elpibedev]]></dc:creator>
 		<pubDate>Mon, 05 Mar 2018 03:38:03 +0000</pubDate>
@@ -55,15 +55,15 @@
 <p>Sed facilisis condimentum ante sed bibendum. Phasellus sagittis commodo hendrerit. Etiam finibus nunc rutrum, volutpat risus vitae, tincidunt est. Proin id felis nisi. Etiam suscipit nec nulla at ultricies. Nam iaculis lacinia nunc, id ullamcorper purus luctus at. Pellentesque in consectetur ante. Sed eget porta enim.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2018/03/05/muddy-buddies/feed/</wfw:commentRss>
+					<wfw:commentRss>https://sage-rugelach-a8a7f4.netlify.app/2018/03/05/muddy-buddies/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pumpkin Banana Loaf</title>
-		<link>/2018/03/04/pumpkin-banana-loaf/</link>
-					<comments>/2018/03/04/pumpkin-banana-loaf/#respond</comments>
+		<link>https://sage-rugelach-a8a7f4.netlify.app/2018/03/04/pumpkin-banana-loaf/</link>
+					<comments>https://sage-rugelach-a8a7f4.netlify.app/2018/03/04/pumpkin-banana-loaf/#respond</comments>
 		
 		<dc:creator><![CDATA[elpibedev]]></dc:creator>
 		<pubDate>Sun, 04 Mar 2018 01:14:37 +0000</pubDate>
@@ -76,15 +76,15 @@
 <p>Ut egestas, tortor a sagittis viverra, odio lorem elementum arcu, a porta neque odio ac augue. Praesent volutpat ante in erat ultricies imperdiet. Praesent ultricies nulla a dictum aliquam. Nunc rutrum lectus tempus fermentum varius. Vestibulum porttitor et quam et posuere. Nulla elit nunc, ultrices id sapien ut, ornare ultrices ante. Suspendisse rutrum felis quis ultricies facilisis.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2018/03/04/pumpkin-banana-loaf/feed/</wfw:commentRss>
+					<wfw:commentRss>https://sage-rugelach-a8a7f4.netlify.app/2018/03/04/pumpkin-banana-loaf/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Earl Grey Cookies</title>
-		<link>/2018/03/03/earl-grey-cookies/</link>
-					<comments>/2018/03/03/earl-grey-cookies/#respond</comments>
+		<link>https://sage-rugelach-a8a7f4.netlify.app/2018/03/03/earl-grey-cookies/</link>
+					<comments>https://sage-rugelach-a8a7f4.netlify.app/2018/03/03/earl-grey-cookies/#respond</comments>
 		
 		<dc:creator><![CDATA[elpibedev]]></dc:creator>
 		<pubDate>Sat, 03 Mar 2018 03:02:09 +0000</pubDate>
@@ -97,7 +97,7 @@
 <p>Sed facilisis condimentum ante sed bibendum. Phasellus sagittis commodo hendrerit. Etiam finibus nunc rutrum, volutpat risus vitae, tincidunt est. Proin id felis nisi. Etiam suscipit nec nulla at ultricies. Nam iaculis lacinia nunc, id ullamcorper purus luctus at. Pellentesque in consectetur ante. Sed eget porta enim.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2018/03/03/earl-grey-cookies/feed/</wfw:commentRss>
+					<wfw:commentRss>https://sage-rugelach-a8a7f4.netlify.app/2018/03/03/earl-grey-cookies/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
