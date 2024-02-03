@@ -1,46 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://sage-rugelach-a8a7f4.netlify.app/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://arteentinta.site/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://sage-rugelach-a8a7f4.netlify.app/</loc>
+		<loc>https://arteentinta.site/</loc>
 		<lastmod>2024-02-03T01:26:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sage-rugelach-a8a7f4.netlify.app/sample-page/</loc>
+		<loc>https://arteentinta.site/sample-page/</loc>
 		<lastmod>2018-03-03T02:14:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sage-rugelach-a8a7f4.netlify.app/contact/</loc>
+		<loc>https://arteentinta.site/contact/</loc>
 		<lastmod>2018-03-03T02:30:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sage-rugelach-a8a7f4.netlify.app/about/</loc>
+		<loc>https://arteentinta.site/about/</loc>
 		<lastmod>2018-03-03T02:30:58+00:00</lastmod>
 		<image:image>
-			<image:loc>https://sage-rugelach-a8a7f4.netlify.app/wp-content/uploads/2018/03/foodie.png</image:loc>
+			<image:loc>https://arteentinta.site/wp-content/uploads/2018/03/foodie.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://sage-rugelach-a8a7f4.netlify.app/recipes/</loc>
+		<loc>https://arteentinta.site/recipes/</loc>
 		<lastmod>2018-03-04T00:57:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sage-rugelach-a8a7f4.netlify.app/typography/</loc>
+		<loc>https://arteentinta.site/typography/</loc>
 		<lastmod>2018-03-05T01:22:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sage-rugelach-a8a7f4.netlify.app/aviso-legal/</loc>
+		<loc>https://arteentinta.site/aviso-legal/</loc>
 		<lastmod>2024-02-01T21:59:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sage-rugelach-a8a7f4.netlify.app/politica-de-privacidad/</loc>
+		<loc>https://arteentinta.site/politica-de-privacidad/</loc>
 		<lastmod>2024-02-01T21:59:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sage-rugelach-a8a7f4.netlify.app/politica-de-cookies/</loc>
+		<loc>https://arteentinta.site/politica-de-cookies/</loc>
 		<lastmod>2024-02-01T21:59:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sage-rugelach-a8a7f4.netlify.app/personalizar-cookies/</loc>
+		<loc>https://arteentinta.site/personalizar-cookies/</loc>
 		<lastmod>2024-02-01T21:59:12+00:00</lastmod>
 	</url>
 </urlset>
